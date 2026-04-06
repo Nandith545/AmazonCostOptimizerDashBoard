@@ -1,1 +1,3 @@
 # AmazonCostOptimizerDashBoard
+
+ARCHITECTURE.png
